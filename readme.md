@@ -8,7 +8,7 @@ Sim, é possível programar em Java sem usar pacotes. No entanto, é uma prátic
 eu teria que executar cada uma no terminal na hora que fosse chamar a principal tipo:
 
 ```bash
-javac Classe1.java Classe2.java MeuPrograma.java 
+javac Classe1.java Classe2.java MeuPrograma.java  
 ```
 
 ## 6) Defina formalmente o Paradigma de Orientação a Objetos.
